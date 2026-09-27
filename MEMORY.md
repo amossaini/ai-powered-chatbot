@@ -1,2 +1,0 @@
-- [Python dependency installation](python-dependency-installation.md) — use the project-local uv environment when Replit's system Python rejects pip installs.
-- [Chat model selection](chat-model-selection.md) — use the small instruction-tuned model with deterministic decoding to avoid generic greeting-only replies.

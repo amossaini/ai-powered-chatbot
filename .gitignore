@@ -1,0 +1,37 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+.pythonlibs/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local application data
+*.db
+*.sqlite
+*.sqlite3
+uploads/
+uploaded_files/
+attached_assets/
+
+# Local model and tool caches
+.cache/
+.huggingface/
+hf_cache/
+models/
+
+# Replit and local development artifacts
+.upm/
+.agents/memory/
+screenshots/
